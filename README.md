@@ -11,10 +11,6 @@ Dataset: Kaggle Heart Disease Dataset
 - Logistic Regression, Random Forest
 - Model evaluation (ROC-AUC, confusion matrix, precision/recall)
 
-## 📁 Files
-- `heart_disease_predictor.py`: Full pipeline
-- `models/`: Trained model (.pkl), plots
-- `data/`: Dataset (heart.csv)
 
 ## 🚀 Results
 - Logistic Regression Accuracy: ~79%
