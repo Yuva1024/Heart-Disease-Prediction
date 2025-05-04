@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project predicts the likelihood of heart disease using ML models.  
-Dataset: [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+Dataset: Kaggle Heart Disease Dataset
 
 ## 📊 Techniques Used
 - Data cleaning & EDA (heatmaps, distributions)
